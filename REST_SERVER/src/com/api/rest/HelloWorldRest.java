@@ -19,5 +19,6 @@ public class HelloWorldRest {
 		 * Para consumir el servicio acceder a la siguiente URL
 		 * http://localhost:8080/REST_SERVER/helloworld
 		 */
+		
 	}
 }
